@@ -1,5 +1,11 @@
+.app-container {
+  background: #ffffff;
+  min-height: 680px;
+  border-radius: 10px;
+}
+
 .App {
-  text-align: center;
+
 }
 
 .App-logo {
